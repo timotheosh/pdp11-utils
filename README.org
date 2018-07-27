@@ -1,0 +1,5 @@
+#+title: BSD 2.11 PDP-11 Utils
+* BSD 2.11 PDP-11 Utils
+  Programs I found myself needing while working on my simulated PDP-11 machine
+  running BSD UNIX 2.11.
+  |env|env [ - ] [ name=value ]... [command arg...] set environment, then execute command (or print environment) - says start fresh, otherwise merge with inherited environment|
